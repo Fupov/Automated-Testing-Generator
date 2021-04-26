@@ -4,7 +4,7 @@
 
 //---- Avant de pouvoir utiliser l'application il faut tout d'abord ----
 
-/---- Phase de Telechargement -----
+/---- Phase de Télechargement -----
 
 -> Télécharger Chrome Web Driver : https://chromedriver.chromium.org/downloads
 -> Télécharger le package Selenium : https://selenium-release.storage.googleapis.com/3.141/selenium-java-3.141.59.zip
