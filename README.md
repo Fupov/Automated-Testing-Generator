@@ -21,6 +21,10 @@ Java Swing and Selenium java application allowing testing different functionalit
 - Download Chrome web Driver
 - Download Selenium JAVA package
 - Java IDE (IntelliJ IDEA)
+## Set-up
+- Import Jar Selenium jar files into the Projet
+- Change the location of the Chrome web driver
+  Code to change: System.setProperty ("webdriver.chrome.driver", "C: \\ Users \\ tchic \\ Downloads \\ chromedriver.exe");
 
 ## Author
 * **Fupov** ([GitHub](https://github.com/Fupov/) / [LinkedIn](https://www.linkedin.com/in/tchich-aymane/))
